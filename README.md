@@ -1,7 +1,11 @@
-# About Me
+# Useful SaaS Reviews
 
-Hi, I'm Gorjia Jak, a content writer and digital marketing enthusiast interested in SaaS, software, technology, and online business.
+A collection of useful information, resources, and reviews covering SaaS
+tools, software, productivity platforms, and business technology.
 
-## Website
+## SaaS Resources
+
+For more detailed SaaS comparisons, pricing information, and software
+reviews, visit:
 
 [Visit SaaSComparely](https://saascomparely.org/)
